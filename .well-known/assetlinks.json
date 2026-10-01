@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.limperial.ordermanagement",
+      "sha256_cert_fingerprints": [
+        "13:0F:DD:35:7A:61:5A:BE:CF:0B:51:B5:D6:F1:A1:AD:BC:2A:30:70:AD:C3:A0:C5:C2:96:CB:A0:88:C0:6E:E8"
+      ]
+    }
+  }
+]
